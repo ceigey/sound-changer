@@ -1,6 +1,7 @@
 # sound-changer
 
-TODO: Write a description here
+Phonological sound changer written in Crystal.
+Accepts _n_ sound change rules and applies them to _m_ words.
 
 ## Installation
 
@@ -9,7 +10,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   sound-changer:
-    github: [your-github-name]/sound-changer
+    github: ceigey/sound-changer
 ```
 
 ## Usage
@@ -26,7 +27,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/sound-changer/fork )
+1. Fork it ( https://github.com/ceigey/sound-changer/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +35,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name])  - creator, maintainer
+- [Ceigey](https://github.com/ceigey)  - creator, maintainer
